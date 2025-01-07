@@ -1,6 +1,6 @@
 <div> 
    <a href="https://github.com/juh-mm"> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=628064&size=35&center=true&vCenter=true&width=1000&lines=Olá,+MEU+NOME+É+JULIA+MARTINS;Seja+bem-vindo(a)!;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=628064&size=35&center=true&vCenter=true&width=1000&lines=Olá,+MEU+NOME+É+JULIA+MARTINS;Seja+bem-vindo(a)!;+:%29)](https://git.io/typing-svg) </div>
 
 <div align="center">
 <a href="https://github.com/juh-mm"target="_blank"> 
