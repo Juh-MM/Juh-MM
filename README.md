@@ -1,8 +1,6 @@
 <div> 
    <a href="https://github.com/juh-mm"> 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=628064&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffb6c1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+MEU+NOME+É+JULIA+MARTINS;Seja+bem-vindo(a)!;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=628064&size=35&center=true&vCenter=true&width=1000&lines=Olá,+MEU+NOME+É+JULIA+MARTINS;Seja+bem-vindo(a)!;+:%29)](https://git.io/typing-svg)
 
 <div align="center">
 <a href="https://github.com/juh-mm"target="_blank"> 
